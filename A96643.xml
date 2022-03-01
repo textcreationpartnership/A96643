@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The power of the committee of the county of Somerset, &amp;c. Or Captaine Humphrey Wills his letter to the said committee concerning their proceedings in the committee and there sending Capt. Humphrey VVills, with a guard, to VVaymouth, in the county of Dorset, there to be kept close prisoner, in the black Rod Goale, without expressing the cause of their so sending him to prison. Contrary to the scripture, Magna Carta, and the Petition of Right.</title>
+            <author>Wills, Humphrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96643</idno>
+            <idno type="STC">Wing W2866</idno>
+            <idno type="STC">Thomason E345_3</idno>
+            <idno type="STC">ESTC R200982</idno>
+            <idno type="EEBO-CITATION">99861581</idno>
+            <idno type="PROQUEST">99861581</idno>
+            <idno type="VID">113719</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96643)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113719)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E345[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The power of the committee of the county of Somerset, &amp;c. Or Captaine Humphrey Wills his letter to the said committee concerning their proceedings in the committee and there sending Capt. Humphrey VVills, with a guard, to VVaymouth, in the county of Dorset, there to be kept close prisoner, in the black Rod Goale, without expressing the cause of their so sending him to prison. Contrary to the scripture, Magna Carta, and the Petition of Right.</title>
+                  <author>Wills, Humphrey.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from STC.</note>
+                  <note>Annotation on Thomason copy: "July 18: 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wills, Humphrey.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113719:1"/>
+            <pb n="1" facs="tcp:113719:1" rendition="simple:additions"/>
+            <head>The power of the Committee of the County of <hi>Somerſet,</hi> &amp;c. Or Captaine <hi>Humphrey Wills</hi> his let<g ref="char:EOLhyphen"/>ter to the ſaid Committee concerning their procee<g ref="char:EOLhyphen"/>dings in the Committee and there ſending Capt <hi>Humphrey VVills,</hi> with a Guard to <hi>VVay<g ref="char:EOLhyphen"/>mouth,</hi> in the County of <hi>Dorſet,</hi> there to be kept cloſe Priſoner, in the black Rod Goale, without expreſsing the cauſe of their ſo ſen<g ref="char:EOLhyphen"/>ding him to Priſon.</head>
+            <epigraph>
+               <q>
+                  <bibl>Acts 25.27.</bibl> It ſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to mee un<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſonable to ſend a Priſoner, and not with all to ſignifie the crimes laid againſt him.</q>
+            </epigraph>
+            <head>Contrary to the Scripture, Magna Carta, and the Petition of Right.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>July 18: 1646</add>
+                  </date>
+               </dateline>
+               <lb/>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>IS No Petition for liberty, no indeed: I am ſo farre from ſuch a thought, that I deeme my ſelfe much obliged, and there<g ref="char:EOLhyphen"/>fore give you all thanks for the honour you have don mee, in judging mee not only worthy of baniſhment, but alſo of cloſe impriſonment, for a good and an honeſt cauſe. Alas, 'tis but men have condemned mee, and amongſt all the Children of men, only the Committee of <hi>Somerſet;</hi> and what's that? I hope it can prove no ſlander; or if it do among ſome few, it is not worth the caring for, having the Al-knowing God, my Conſcience, and I am ſure all the honeſt-hearted of the County to witneſſe for mee, that I not only am, but have beene, and I hope ever ſhall continue faithfull to the State, and truly honeſt to my Country. Then let the Devill do his worſt, and all his curſed Inſtruments, I cannot, I will not, nay I know not how to feare.</p>
+            <p>If any of you do (though the now great and over-topping Pine do not) think me worthy of my Sword againe, as truly I ſuppoſe, Gent. ſome of you do, at leaſt as deſerving, as the Marſhall, which ſo uncivilly and rudely deprived me of it I ſhall looke on it as a favour and endeavour when it lies in mee to appeare gratefull, what? It may ſo fall out, wee ſhall not be alwayes Committee men, neither I hope will poore <hi>England</hi> long ſtand in need of ſuch, but through the good endeavours of the Parliament, Gods bleſſing continu<g ref="char:EOLhyphen"/>ing (as hitherto it hath) upon them: I hope we ſhall once more live under, and be ſteered by the ancient and funda<g ref="char:EOLhyphen"/>mentall Lawes of the Kingdome. Gent. being honeſt, I can<g ref="char:EOLhyphen"/>not
+<pb n="2" facs="tcp:113719:2"/> but uſe downe right dealing, and therefore may very well be tearmed a Clubman; you may, if you pleaſe, ſmile at the homelyneſſe of the Title, but Ile aſſure you, do but conſider a while, and you may eaſily finde, they are not ſo odious as an<g ref="char:EOLhyphen"/>other ſort of people in the Land are come, come though you deſpiſe us, and trample us as dung under your feet, yet if you would looke off your (owne too much admired) ſelves, you might apprehend that the Club (I meane of <hi>Somerſet</hi>) hath done good and faithfull ſervice: Firſt, in oppoſing <hi>Gorings</hi> Army, whereby they could impreſſe no more men, nor hee nor any of the Kings Gariſons raiſe more monyes for the maintenance of the Souldiers, no nor ſcarce (but where they were too ſtrong for us) could they get proviſion or quar<g ref="char:EOLhyphen"/>ter for their men: next in oppoſing <hi>Wills</hi> and <hi>Dorſetſhire</hi> in which two Counties (tis well knowne) there was a combi<g ref="char:EOLhyphen"/>nation (and a ſtrong one too) of a knot of deſperate Cava<g ref="char:EOLhyphen"/>liers for the ſeducing of the Clubmen from their firſt inten<g ref="char:EOLhyphen"/>tions (which was onely an Aſſociation to ſtand together in defence of their good) and bringing them in wholly, yea at the Weſtern parts, to have ſided with the Kings party, for proofe of this, remember <hi>Catull. Hill,</hi> from whence they verily thought, to have drawne 10000. men, to have fallen upon Major Generall <hi>Maſsies</hi> quarters at <hi>Sturmiſter-New<g ref="char:EOLhyphen"/>ton,</hi> in complying with the Parliaments Forces, as ſoone as ever they appeared. <hi>viz.</hi> at <hi>Knoll-Hill,</hi> where the ever fa<g ref="char:EOLhyphen"/>mous Generall Sir <hi>Thomas Fairfax,</hi> came up (with neere a thouſand Horſe) amongſt them, demanding nothing, which we did not readily and cheerfully yeeld unto.</p>
+            <p>And here with your leave) I will ſpeak (becauſe you have thought I deſerve no better then a Priſon) two or 3. words concerning my ſel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. The Country was pleaſed at this place to voyce me ſo ſerviceable, that they did verily believe them ſelves to be forty thouſand pounds the better for my endea<g ref="char:EOLhyphen"/>vours and that there was not any man in the whole County, who had engaged himſelfe more <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r run greater hazards in oppoſing the Cavaliers, Commiſſioners, as well as others, in all their deſignes, then my ſelfe, and that had I not been ve<g ref="char:EOLhyphen"/>ry active, the ſubtle pated Cavalier had undone them all, by drawing them (who were even as ſheep going to the ſlaugh<g ref="char:EOLhyphen"/>ter) into an engagment againſt the Parliament, and ſo con<g ref="char:EOLhyphen"/>trary
+<pb n="3" facs="tcp:113719:2"/> to their intentions, to have become enemies to thoſe whom they did moſt of all honour, and rejoyce exceedinly to ſee. I ſpeake not this to vaunt my ſelfe: and yet I ſuppoſe in ſome caſes (and this of mine is one of them) a man may re<g ref="char:EOLhyphen"/>late truths of himſelfe, to vindicate himſelfe from the tra<g ref="char:EOLhyphen"/>ducements of enemies without the danger of being looked on as <hi>Thraſonicall.</hi> But I preſume you think ther's too much of this: therefore I'le turne to another ſubject.</p>
+            <p>What ſhall I ſay? All my deſire is, that you would bee charitably conceited of the honeſt Club: And that I may the ſooner gaine upon you, will you favour us ſo much as to re<g ref="char:EOLhyphen"/>member, <hi>Briſtoll, Dunſter</hi> Caſtle <hi>Bainton,</hi> and many other places in the Weſt, and Major Generall <hi>Maſsies</hi> lying in the Weſt ſo long, with onely one Brigade of horſe, ſo neere the enemies whole Army which had bin impoſſible to be made good in ſecurity, had not the club ſtood ſoundly and come in roundly unto him upon all occaſions. Though he be as gal<g ref="char:EOLhyphen"/>lant a man, and as daring as the world hath any, yet I have hard him divers time confeſſe, that had not the Country bin honeſt to him, hee would never have advertured at ſuch a rate: His reaſons were (and his ſufficiency that way is ſuffi<g ref="char:EOLhyphen"/>ciently known) that the Country where he then quartered, being full of narrow, and hedged lanes, his horſe (though as he could wiſh) was not conſiderable for the facing of ſuch an Army, had not the Country men bin faithfull in giving him ce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tain intelligence of every the leaſt motion of the Enemy. And Gentlemen, you muſt conſider as their faithfulneſſe to him was a great encouragement, ſo it muſt needs to the ad<g ref="char:EOLhyphen"/>verſe party, prove a great diſheartning. This being undoub<g ref="char:EOLhyphen"/>tedly ſo, me thinks you ſhould looke upon the Club of <hi>So<g ref="char:EOLhyphen"/>merſetſhire,</hi> as friends and not at ſuch a diſtance, much leſſe with ſuch a cruell eye as now you doe, I may very well ſay. cruell: becauſe no County that I can underſtand, hath had ſuch a hard meaſure afforded it by their Committee as wee that deſerve beſt have had from you. Take it not amiſſe Gen<g ref="char:EOLhyphen"/>tlemen, that I ſay ſo, or if you do, I care not; for I am ſure, I doe you no wrong, your fame being flown <hi>London</hi> high al<g ref="char:EOLhyphen"/>ready; yea for this particular, if I ſay heaven high, I ſay but truth: therefore 'tis high time to look about, for you cannot avoyd the giving an account of your Stewardſhip now which
+<pb n="4" facs="tcp:113719:3"/> thing once done, I am (yet) ſo much your friend, that I do but wiſh you all according to your merit: And then truly (I am perſwaded) there is ſcarſe a man that knowes you, will once looke on you with an invious or a commiſe<g ref="char:EOLhyphen"/>rating eye. I confeſſe I know little, yet this I know, you had many friends in the Country once, but if they be now taken off from that affection, you may impute it not only to your ſevere, but ſo your unequall carriage. What I ſpeak i'le main<g ref="char:EOLhyphen"/>taine, though I make a forfeiture of my ſelfe, as well as of my liberty.</p>
+            <p>Why doe ſuch knowne Enemies, Arch Malignants, and groſſe oppoſers of the Parliament, live at home free and un<g ref="char:EOLhyphen"/>touched (as if they were as innocent as the beſt) when others which were never active, but are men of honeſt converſation having the whole Countries teſtimony for their faire demea<g ref="char:EOLhyphen"/>nure, muſt have no favour at all ſhewen them, but be ſeque<g ref="char:EOLhyphen"/>ſtred, Impriſoned, and in an inſtant all they have is grubbed up and taken away which it may be coſt them many yeers ſweat of him and his Family to gather together. Now if there be any Juſtice or equall dealing in ſuch courſes as theſe, I ap<g ref="char:EOLhyphen"/>peale to any mans conſcience, a Committee man excepted. And as for your rigour, who knowes not, if a Country man reported rich bee once ſeazed on, what a hard thing it is for ſuch a one to ſcape your lime twigges, as if the only buſineſſe of the peace in a reduced County were to ſpoile the poore Subject, of that little which the waſting Warre hath ſpared, ſhall I to this complain of the difficulty that ſuch a man hath in obtaining leave to have but his friends admitted with him eſpecially if it be once knowne that they canne come to ſpeake ſomething for his advantage. Well, but ſuppoſe hee hath gained their admittance, (which is,) (I can tell you on every dayes ſavour) what a faire Carriage, and ketching kind of language do you then uſe to diſcountedance that man, who but offers to have courage for the truth, in juſtification of his Neighbour, or it may be a Brother, that is at Stakes, Oh how unquiet and diſturbed do you then appeare to witneſſes of that nature how do you ſwell and bluſter out, eſpecially upon ſuch a man is is able to ſpeak ſence and truth both to<g ref="char:EOLhyphen"/>gether, as if you would blaſt him for being honeſt. Then be<g ref="char:EOLhyphen"/>gins nothing but, what are you, who ſent for you, Is this a<g ref="char:EOLhyphen"/>ny
+<pb n="5" facs="tcp:113719:3"/> buſineſſe of yours; What made you heare. But if the man will not be daunted for this, then, who knowes this fellow here, where doth he dwell, Hah, ſpeak man. And if this faile too then did he never take up Arms againſt the Parliament. How ſtands he affected? Sirrah, you are a peremtory Jack, but wee'l take a courſe with you well enough, ere you go, have you taken the Oath yet, reach hither the Booke, come you hither Sirrah, will you take it.</p>
+            <p>A Gallant way Gentlemen I profeſſe, and very commen<g ref="char:EOLhyphen"/>dable to fright a man off from an honeſt duty but every man I conceive will not be ſo baffooned as to fall off, or to decline their friends for ſuch juggling as this, what way have you then? you have (to your eternall praiſe be it ſpoken) a trick (if you meete with a Stubborne Gamſter) that never failed at a dead lift, and that is to Command him abſent. Good Mr. <hi>Sanders,</hi> do not you remember this, truly if you do not, I do. Now Gentl. if this bee not harſhneſſe, I know not what to call ſo, or if theſe courſes bee not able to diſſaf<g ref="char:EOLhyphen"/>fect even a well affected people, I underſtand not a provoca<g ref="char:EOLhyphen"/>tion: I profeſſe unto you the more I think or conſider them the more vile and odious they appeare to me, and ſo I am perſwaded they do to all honeſt men that know what government is, and beleeve that liberty is a reallity.</p>
+            <p>Neither do I know with what example to paralell it, except with that of <hi>Tyberius,</hi> who had a cuſtom and a cru<g ref="char:EOLhyphen"/>ell one, that when ever he cauſed any to be put to death, hee would forbid all their friends and kindred to weep, and to pay the tribute due either to their relation or their merit. And whats the difference now between your ſelves, and this ſweet natured Emperour? all that I ſee in it is, that hee for<g ref="char:EOLhyphen"/>bad to weep for a dead friend, and you to ſpeak or plead for a living. But what ſay you, Gentlmen, is't not enough of this? If you think we will here, becauſe it hath bin ſomthing a hard Chapter, turn down a leafe, and breath a while. The next ſhall be why I was committed, and wee <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e talke a little of the civill cariage to me aſſoone as I was your priſoner.</p>
+            <p>And here in the firſt place I muſt tell you (God can wit<g ref="char:EOLhyphen"/>neſſe for mee) when I took my laſt journey to you and that voluntarily and freely out of the care I had of the publike good, (as it well appears to be no otherwiſe, when it was only to informe you of matters of dangerous conſequence) I
+<pb n="6" facs="tcp:113719:4"/> thought I ſhould have bin looked upon with the eyes of ſuch affection and love as a man that had performed a rate peece of ſervice, and not have found ſuch a contrary and cruell en<g ref="char:EOLhyphen"/>tertainment, as I encountered a ſcrewing, (and nothing elſe but ſcrewing) and wreſting my honeſt meaning, (with a de<g ref="char:EOLhyphen"/>ſigne to ruine mee) into a contrary ſence. Alas Gentlemen, what was the fault, if any that made mee worthy of a puniſh<g ref="char:EOLhyphen"/>ment of this high extremity; Did I any thing more, then ad<g ref="char:EOLhyphen"/>vertiſe you, that there were like to be great tumults and up<g ref="char:EOLhyphen"/>roares in the Country unleſs you did pay the Souldiers bet<g ref="char:EOLhyphen"/>ter, eſpecially thoſe of the Garriſon, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ereby they might be enabled to pay for their quarter; And to make you the fitter to apprehend the danger I told you the Club-men had riſen twice already below Bridgwater, and beaten the Souldiers out of their quarters and that they were fairly drawing on<g ref="char:EOLhyphen"/>ward to the ſame poſture about <hi>Poulden</hi> Hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l and other parts Eaſtward. Upon this you brak forth into a rage upon me and told me I was the incendiary in the buſineſſe. But you know my anſwer was, that if it did appeare ſo, I deſired no favour, but puniſhment to the uttermoſt. And very well I might ſtand upon mine integrity in this particular: for I can prove I have laboured to beat downe and repell ſuch thoughts or motions in the Country with more bitter reproofs then was fit for me to uſe, and that, when they have (as ſomtimes they would) come to me to intreate me to appeare amongſt them or march with them; I have reproved them ſo ſharply for it, that they have oftentimes gone away much enraged at mee. Therefore if I have no wrong, there is no man in the world ever ſuffered wrongfully. But what was the concluſion of my diſcourſe? was it not with a requeſt, that ſeeing you were now the only Juſticiaries wee had, it did behove you having ſo faire a warning to endeavour with al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the poſſible care that might be to prevent murder and bloudſhed in our Country, which in all probabilitie, without ſome better courſes taken were inevitably like to happen amongſt us. And what was there in all this, that could merit your hate, nay rather that did not deſerve from you thanks, &amp; a courteous acceptance? But you ſay there was a letter ſent in, that did informe you that I one day met with ſome Souldiers, and among other diſcourſe, told them, that in caſe I going to the Committee
+<pb n="7" facs="tcp:113719:4"/> for mony for them ſhould happen to bee committed, I did hope they would help to fetch me off. But this was but a ſe<g ref="char:EOLhyphen"/>queſtrators report, and as for that ſort of Cattle, I have heard ſome of your ſelves ſay, that you did not think you had three honeſt of them in the whole packe, of which ſmall number, you thought one or two lived in the Pariſh where I did. And yet though you know this, let but one of theſe (though the verieſt knave of all) come and ſwear any thing againſt a ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, though never ſo honeſt and known to bee ſo, his Oath muſt carry it, though 20 creditable men, that are Parliament proofe come to prove and maintaine the contrary, ſuch a ſad and mi<g ref="char:EOLhyphen"/>ſerable condition are we poor Country men in.</p>
+            <p>But now Gentlemen, let mee aske you one queſtion. Why did you, whiles I was talking with you (and at a great diſtance, as you had beene honourable indeed) ſnarle at me, and grinne upon me ſo, ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atching up pen and inke, and ketching at my words, as if you would have extracted ſomthing out of me in ſpight of my teeth, that ſhould undoe mee? B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t if you will not tell me why, I give God the praiſe hee hath diſcovered it to me, and hath given me the courage to tell you of it to your faces. The height of your malice, and cauſe of my impriſonment hath its riſe from certaine words, I ſhould let fall concerning Col. <hi>Strods:</hi> and this ſome of your owne troop confeſt, as they carried me to priſon, that I ſhould (forſooth ſay) in <hi>Ilcheſter,</hi> that I was of the opinion, that <hi>Strood</hi> was an honeſt man, and a good Common-wealths man, and that if he ſtood to be Knight of the ſhire, he ſhould not only have my voyce, but 500 more of my procuring. This, this was it. Maſter <hi>Pine,</hi> that made you ſo fierce, that ſent me to <hi>VVeymouth:</hi> and ſo much for your committing me.</p>
+            <p>But now after the dreadfull ſentence was pronounced, which (thanks be to God) was not like to that of the <hi>Medes and Perſians,</hi> how was your de<g ref="char:EOLhyphen"/>meanour then? Why, truely ſo like that of Gentlmen, that I may que<g ref="char:EOLhyphen"/>ſtion whether there were a one amongſt you, or no. To prove this: firſt No Bayle would bee taken, though I offered 10000. l. deepe. Next my friends were forbid to ſpeak with me, and by your Marſhall threatned with impriſonment, if they came where I was. Then, as if I had bin an open or abſolute Enemy to the Parliament, a good ſword, and becauſe it was ſo, taken from me. I muſt not write to any, no not to my wife, not ſo much as to acquaint her with my condition, or to ſend for my accommodations. I muſt bee baniſhed my Country. As if all this were not enough, I muſt have a Letter ſent along with me to the Governour of Weymouth to clap me up cloſe priſoner under the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lacke Rod, which is a Goyle in the Town, where a company of miſerable wretches and poore creatures lye, that the very ſent of the place, together with the hot ſeaſon of the yeer is able to ſtifle or poyſon a man. This is a truth, you cannot be ignorant of, and remembred, me thinks ſhould ſet colours in your faces, if you be not beyond a bluſh. Had you handled that <hi>Philip VVhite</hi> whom I tooke
+<pb n="8" facs="tcp:113719:5"/> neer Bruton the laſt Winter, at this rate, it might have ſounded ſo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thing to your praiſe, but to take ſuch great care of ſecuring and wedging me faſt, and to let him go upon ſuch eaſie termes, ſuch a plundering deſ<g ref="char:EOLhyphen"/>perate bloudy rogue as hee was, is a peece of Juſtice very agreeable to all the reſt.</p>
+            <p>Therefore ſeeing the Counties affaires are ſo prepoſterouſly and un<g ref="char:EOLhyphen"/>worthily mannaged by you, methinks you do ill, yea aggravate the ill of your lives, by labouring to juſtifie, your unjuſt courſes the way you ſo commonly do, for when ſomething by you is done, which ſtrikes wonder and terror to the hearts of the hearers by reaſon of the unreaſonable<g ref="char:EOLhyphen"/>neſſe, and barbarouſeneſſe thereof, when any take upon them (as <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> ſometime have done) to queſtion you for it, whats your anſwer, but. T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is could not be by you avoyded, The Ordinance of Parliament will have it ſo, you confeſſe it hard dealing, but you dare not budge an inch from that Rule. And what is this <hi>I</hi> pray, but to caſt an aſpe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion on the Parlia<g ref="char:EOLhyphen"/>ment of England, which the whole Kingdome hath ever cauſe to bleſſe God for, and honour. And thus much <hi>I</hi> will ſay being perſwaded ſo i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my very ſoule, that you have acted ſuch a diſtance from their comm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and intentions, that when they have once the notice of it, they will be ſo far from juſtifying you, that you will be looked on as a Generation worthy of nothing elſe but contempt and puniſhmen. And now Gentlemen my paper is almoſt ſpent, and <hi>I</hi> am ſtated with this matter, I conceive my diſcourſe hath bin ſomething troubleſome, but there is no remedy, I <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preferre the diſcharge of a good Conſcience before your friendſhip, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d will, yea though I were ſure to rivette my ſelfe aldayes of my life is a Dungeon. But I know, and this I am ſure of, you are all in a Chaine, for your Father <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo, and you can do no more then my God doth per<g ref="char:EOLhyphen"/>mit you, and that is my comfort. In that judge of right, and reliever of the oppreſſed is my only truſt, therefore I now dare your worſt, knowing aſſuredly, that the word will ſo order and bring about things by his pro<g ref="char:EOLhyphen"/>vidence, that my ſufferings will tend as ſurely to your ſhame and infa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, as to his Glory and my good, ſo deferring a ſecond part for a London Tune, I now leave you to your meditations.</p>
+            <closer>
+               <dateline>
+                  <date>July 6. 1646.</date> from the Black-Rodde in Weymouth.</dateline>
+               <signed>Humphrey Wills.</signed>
+            </closer>
+            <trailer>For the Committee of Somerſet ſitting at ILCHESTER.</trailer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113719:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
